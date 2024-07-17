@@ -13,7 +13,7 @@ cd data-visualization-dashboard
 Install dependencies:
 ```
 npm install
-Configure MongoDB
+npm i cors
 ```
 
 ## Ensure MongoDB is installed and running.
